@@ -1,0 +1,12 @@
+{
+  "name": "ddo-dlog",
+  "description": "a Simple & Beautiful Logging for Browser",
+  "version": "0.1.1",
+  "keywords": [
+    "log",
+    "logger"
+  ],
+  "main": "dlog.js",
+  "dependencies": {},
+  "license": "MIT"
+}
